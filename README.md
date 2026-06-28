@@ -1,4 +1,4 @@
-# Hi, I'm SkyFox 👋
+# Hi, I'm SkyX-Arch 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Android+ROM+Maintainer;MediaTek+Device+Developer;crDroid+Contributor&center=true&width=500&height=50">
