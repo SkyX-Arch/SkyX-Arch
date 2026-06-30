@@ -1,95 +1,121 @@
-# Hi, I'm SkyX-Arch 👋
+<div align="center">
+
+# SkyX-Arch
+
+### Android ROM Maintainer for Xiaomi 12T (plato)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Maintaining+crDroid+for+Xiaomi+12T;Android+16+Platform+Adaptation;MediaTek+MT6895+Maintenance;Stability+%7C+Security+%7C+Performance" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Android-16-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/crDroid-Maintainer-1976D2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform-MediaTek%20MT6895-FF9800?style=for-the-badge">
+<img src="https://img.shields.io/badge/Build%20Type-user-success?style=for-the-badge">
+
+</div>
+
+---
+
+## 👋 About
+
+Maintainer of **crDroid** for **Xiaomi 12T (plato)**.
+
+My work focuses on bringing modern Android versions to MediaTek devices through platform adaptation, vendor integration, SELinux policy development, and long-term maintenance.
+
+---
+
+# 📱 Maintained Device
+
+| Device                 | Platform        | Android    | Build Type | Status    |
+| ---------------------- | --------------- | ---------- | ---------- | --------- |
+| **Xiaomi 12T (plato)** | MediaTek MT6895 | Android 16 | `user`     | 🟢 Active |
+
+---
+
+# 📦 Repositories
+
+### Device Trees
+
+| Repository                            | Description                             |
+| ------------------------------------- | --------------------------------------- |
+| [`android_device_xiaomi_plato`](https://github.com/SkyX-Arch/android_device_xiaomi_plato)         | Device tree for Xiaomi 12T              |
+| [`android_device_xiaomi_mt6895-common`](https://github.com/SkyX-Arch/android_device_xiaomi_mt6895-common) | Common platform tree for MT6895 devices |
+
+### ROM
+
+| Repository    | Description                                                |
+| ------------- | ---------------------------------------------------------- |
+| [`crdroid-ota`](https://github.com/SkyX-Arch/crdroid-ota) | Maintained crDroid releases and OTA updates for Xiaomi 12T |
+
+### Upcoming
+
+* MIUI Camera port
+* Vendor blobs integration and adaptation
+
+---
+
+# 🏆 Project Highlights
+
+* ✅ Android 16 bring-up
+* ✅ Fully signed `user` builds
+* ✅ OTA update infrastructure
+* ✅ Major SELinux policy rework
+* ✅ Connectivity and telephony fixes
+* ✅ Dolby Atmos integration
+* ✅ MediaTek AI display enhancements
+* ✅ Continuous vendor blobs integration and platform adaptation
+* ✅ Ongoing stability and performance improvements
+
+---
+
+# 🔧 Focus Areas
+
+* Android device bring-up
+* Device tree maintenance
+* MediaTek platform adaptation
+* Vendor integration
+* SELinux policy development
+* Hardware feature enablement
+* Performance tuning
+* System debugging and log cleanup
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Android+ROM+Maintainer;MediaTek+Device+Developer;crDroid+Contributor&center=true&width=500&height=50">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SkyX-Arch&show_icons=true&theme=tokyonight&hide_border=true">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyX-Arch&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-ROM-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-MediaTek-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Role-Maintainer-blue?style=for-the-badge">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SkyX-Arch&theme=tokyo-night&hide_border=true">
 </p>
 
 ---
 
-## ⚡ About
+# 🚧 Current Development
 
-Android ROM maintainer focused on MediaTek devices, system stability, and custom Android builds based on crDroid.
-
-Work is focused on device bring-up, platform adaptation, and low-level system fixes rather than application-level development.
-
----
-
-## 📱 Projects
-
-### Xiaomi 12T (plato)
-
-* [`android_device_xiaomi_plato`](https://github.com/SkyX-Arch/android_device_xiaomi_plato)
-
-  Device tree for Xiaomi 12T (plato)
-
-* [`android_device_xiaomi_mt6895-common`](https://github.com/SkyX-Arch/android_device_xiaomi_mt6895-common)
-
-  Common MT6895 platform tree (used for plato)
-
-* [`crdroid-ota`](https://github.com/SkyX-Arch/crdroid-ota)
-
-  Maintained crDroid OTA builds for Xiaomi 12T (plato)
+* 🔄 MIUI Camera port
+* 🔄 Latest vendor blobs integration
+* 🔄 Android platform improvements
+* 🔄 Additional stability and performance optimizations
 
 ---
 
-### 🔧 Work in progress
-
-* MIUI Camera port (device-specific integration)
-* Vendor blobs cleanup and restructuring
-
----
-
-### 🧩 Scope of work
-
-* Android device bring-up and maintenance
-* MediaTek MT6895 platform adaptation
-* ROM stability and system-level fixes
-* Hardware feature enablement and tuning
-
----
-
-### 📦 Base
-
-* crDroid Android (custom builds and device support)
-
----
-
-## 📊 GitHub stats
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkyX-Arch&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyX-Arch&layout=compact&theme=tokyonight" height="160">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
 
-## 🧠 Philosophy
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SkyX-Arch&theme=tokyo-night">
-</p>
+### Stability • Security • Performance
 
-* Stability first
-* Clean system behavior
-* No unnecessary background noise
-* Real-world usability over benchmarks
+*Building a better Android experience for Xiaomi 12T.*
 
----
-
-## 🐍 Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-## ⚠️ Note
-
-Everything here is experimental. Flash at your own risk.
+</div>
