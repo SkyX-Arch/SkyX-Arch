@@ -92,7 +92,7 @@ My work focuses on bringing modern Android versions to MediaTek devices through 
 
 # 🚧 Current Development
 
-* 🔄 MIUI Camera port
+* 🔄 GCAM Camera port for plato
 * 🔄 Latest vendor blobs integration
 * 🔄 Android platform improvements
 * 🔄 Additional stability and performance optimizations
