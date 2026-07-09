@@ -19,7 +19,7 @@
 
 ## 👋 About
 
-Maintainer of **crDroid** for **Xiaomi 12T (plato)**.
+Maintainer of **crDroid** and **AxionOS**  for **Xiaomi 12T (plato)**.
 
 My work focuses on bringing modern Android versions to MediaTek devices through platform adaptation, vendor integration, SELinux policy development, and long-term maintenance.
 
@@ -49,6 +49,7 @@ My work focuses on bringing modern Android versions to MediaTek devices through 
 | Repository    | Description                                                |
 | ------------- | ---------------------------------------------------------- |
 | [`crdroid-ota`](https://github.com/SkyX-Arch/crdroid-ota) | Maintained crDroid releases and OTA updates for Xiaomi 12T |
+| [`axionos-ota`](https://github.com/SkyX-Arch/axionos-ota) | Maintained AxionOS releases and OTA updates for Xiaomi 12T |
 
 ### Upcoming
 
