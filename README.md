@@ -4,12 +4,12 @@
 
 ### Android ROM Maintainer for Xiaomi 12T (plato)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Maintaining+crDroid+for+Xiaomi+12T;Android+16+Platform+Adaptation;MediaTek+MT6895+Maintenance;Stability+%7C+Security+%7C+Performance" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Maintaining+crDroid+and+AxionOS+for+Xiaomi+12T;Android+16+Platform+Adaptation;MediaTek+MT6895+Maintenance;Stability+%7C+Security+%7C+Performance" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Android-16-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/crDroid-Maintainer-1976D2?style=for-the-badge">
+<img src="https://img.shields.io/badge/crDroid and AxionOS-Maintainer-1976D2?style=for-the-badge">
 <img src="https://img.shields.io/badge/Platform-MediaTek%20MT6895-FF9800?style=for-the-badge">
 <img src="https://img.shields.io/badge/Build%20Type-user-success?style=for-the-badge">
 
