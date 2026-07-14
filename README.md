@@ -41,8 +41,6 @@ My work focuses on bringing modern Android versions to MediaTek devices through 
 | ------------------------------------- | --------------------------------------- |
 | [`android_device_xiaomi_plato`](https://github.com/SkyX-Arch/android_device_xiaomi_plato)         | Device tree for Xiaomi 12T              |
 | [`android_vendor_xiaomi_plato`](https://github.com/SkyX-Arch/android_vendor_xiaomi_plato) | Proprietary vendor blobs for Xiaomi 12T |
-| [`android_device_xiaomi_mt6895-common`](https://github.com/SkyX-Arch/android_device_xiaomi_mt6895-common) | Common platform tree for MT6895 devices |
-| [`android_vendor_xiaomi_mt6895-common`](https://github.com/SkyX-Arch/android_vendor_xiaomi_mt6895-common) | Common proprietary vendor blobs for MediaTek MT6895 platform devices |
 
 ### ROM
 
