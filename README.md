@@ -44,10 +44,10 @@ My work focuses on bringing modern Android versions to MediaTek devices through 
 
 ### ROM
 
-| Repository    | Description                                                |
-| ------------- | ---------------------------------------------------------- |
-| [`crdroid-ota`](https://github.com/SkyX-Arch/crdroid-ota) | Maintained crDroid releases and OTA updates for Xiaomi 12T |
-| [`axionos-ota`](https://github.com/SkyX-Arch/axionos-ota) | Maintained AxionOS releases and OTA updates for Xiaomi 12T |
+| Repository    | Description                                                |Status    |
+| ------------- | ---------------------------------------------------------- |--------- |
+| [`crdroid-ota`](https://github.com/SkyX-Arch/crdroid-ota) | Maintained crDroid releases and OTA updates for Xiaomi 12T | 🟢 Active |
+| [`axionos-ota`](https://github.com/SkyX-Arch/axionos-ota) | Maintained AxionOS releases and OTA updates for Xiaomi 12T | 🔴 Frozen |
 
 ### Upcoming
 
