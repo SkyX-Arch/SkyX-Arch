@@ -4,7 +4,7 @@
 
 ### Android ROM Maintainer for Xiaomi 12T (plato)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Maintaining+crDroid+and+AxionOS+for+Xiaomi+12T;Android+16+Platform+Adaptation;MediaTek+MT6895+Maintenance;Stability+%7C+Security+%7C+Performance" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Maintaining+crDroid+and+AxionOS+for+Xiaomi+12T;Android+17+Platform+Adaptation;MediaTek+MT6895+Maintenance;Stability+%7C+Security+%7C+Performance" />
 
 <br>
 
