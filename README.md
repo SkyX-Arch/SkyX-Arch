@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Android-16-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Android-17-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/crDroid and AxionOS-Maintainer-1976D2?style=for-the-badge">
 <img src="https://img.shields.io/badge/Platform-MediaTek%20MT6895-FF9800?style=for-the-badge">
 <img src="https://img.shields.io/badge/Build%20Type-user-success?style=for-the-badge">
@@ -29,7 +29,7 @@ My work focuses on bringing modern Android versions to MediaTek devices through 
 
 | Device                 | Platform        | Android    | Build Type | Status    |
 | ---------------------- | --------------- | ---------- | ---------- | --------- |
-| **Xiaomi 12T (plato)** | MediaTek MT6895 | Android 16 | `user`     | 🟢 Active |
+| **Xiaomi 12T (plato)** | MediaTek MT6895 | Android 17 | `user`     | 🟢 Active |
 
 ---
 
@@ -58,7 +58,7 @@ My work focuses on bringing modern Android versions to MediaTek devices through 
 
 # 🏆 Project Highlights
 
-* ✅ Android 16 bring-up
+* ✅ Android 17 bring-up
 * ✅ Fully signed `user` builds
 * ✅ OTA update infrastructure
 * ✅ Major SELinux policy rework
